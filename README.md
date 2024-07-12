@@ -17,4 +17,4 @@ You can see more documentation on their website: https://textflow.me
 
 - React Native
 - Expo
--
+- textflowborder
